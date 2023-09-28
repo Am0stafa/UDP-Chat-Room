@@ -65,12 +65,3 @@ UDP (User Datagram Protocol) and TCP (Transmission Control Protocol) are both tr
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. All contributions are welcome.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-Replace `https://github.com/your-repo-link/udp-chat-app.git` with the actual URL of your repository.
-
-This README provides an overview of your project, instructions for getting started, running the application, an explanation of UDP vs TCP, a description of the project structure, and placeholders for contributing and license information.
