@@ -9,7 +9,6 @@ This project is a simple chat application using User Datagram Protocol (UDP) bui
 - [UDP vs TCP](#udp-vs-tcp)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
